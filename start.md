@@ -1,5 +1,15 @@
-#Spring boot开始
+# Spring boot开始
 
-## 到[Spring官网start](https://start.spring.io/)生成工程，我选择的是Maven工程
+## 到[Spring官网start](https://start.spring.io/ "start springboot")生成工程，我选择的是Maven工程
 ---
-选择自己需要引入的包
+
++ 选择project类型（maven或者gradle）
++ 选择语言java
++ 选择spring boot版本
++ 填写group、Artifact名称
++ 选择需要使用的依赖
++ 最后生成工程，下载下来使用
+
+---
+
++ 使用Idea开发工具打开工程
